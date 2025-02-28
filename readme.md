@@ -1,3 +1,5 @@
+> **_NOTE:_** This project was created with Cursor AI. My first experience with Cursor. Despite that, he did a very good job.
+ 
 # Keycloak RabbitMQ Event Listener
 
 A custom Keycloak Event Listener that publishes events to RabbitMQ.
