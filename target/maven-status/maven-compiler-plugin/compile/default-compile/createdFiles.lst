@@ -1,0 +1,3 @@
+com\example\keycloak\listener\CustomEventListener.class
+com\example\keycloak\listener\RabbitMQManager.class
+com\example\keycloak\listener\CustomEventListenerFactory.class
